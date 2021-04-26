@@ -2,8 +2,9 @@
 // Copyright (c) 2021 - jackk <jack@darkrp.sucks>, All rights reserved.
 //
 
-#include <core/window.h>
-#include <impl/win32/win32_window.h>
+#include <mpch.h>
+#include <minecraft/core/window.h>
+#include <minecraft/impl/win32/win32_window.h>
 
 namespace minecraft::core {
 
